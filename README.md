@@ -1,2 +1,2 @@
 ![Image]({{ site.url }}{{ site.baseurl }}/1.png)
-[Zapisy]({{ site.url }}{{ site.baseurl }}/pages/zapisy.md)
+#<p style="text-align: center;"> [Zapisy]({{ site.url }}{{ site.baseurl }}/pages/zapisy)</p>
