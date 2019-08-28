@@ -1,4 +1,3 @@
-title: "Paluszkowe Rozśpiewanki"
 ![Image]({{ site.url }}{{ site.baseurl }}/1.png)
 <font size="20">
 <p style="text-align: center; "> 
